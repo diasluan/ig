@@ -11,4 +11,3 @@ def binarySearch(array, target):
         elif array[mid] < target:
             small = mid + 1
     return -1
-
